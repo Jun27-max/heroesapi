@@ -31,7 +31,7 @@ Testes:
 
 mvn clean test
 
-Documentacao gerada pela aplicação: swagger: 
+Documentacao gerada pela aplicação swagger: 
 
 http://localhost:8080/swagger-ui-heroes-reactive-api.html
 
